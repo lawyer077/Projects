@@ -1,0 +1,7 @@
+.content {
+    color: #4b5562;
+    grid-area: app-wrapper-content;
+}
+.content.active {
+    width: 20px;
+}
