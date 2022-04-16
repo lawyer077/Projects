@@ -1,6 +1,6 @@
 .content {
     color: #4b5562;
-    grid-area: app-wrapper-content;
+    grid-area: content;
 }
 .content.active {
     width: 20px;

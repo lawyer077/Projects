@@ -1,6 +1,6 @@
 import React from 'react';
 import s from './ProFile.module.css';
-import MyPosts from "./MyPosts/MyPots";
+import MyPosts from "../components/ProFile/MyPosts/MyPots";
 const ProFile = () => {
     return <div className={s.content}>
         <div className={`${s.content} ${s.active}`}>

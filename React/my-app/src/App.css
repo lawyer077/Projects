@@ -4,7 +4,7 @@
   display: grid;
   grid-template-areas:
   "header header"
-   "nav app-wrapper-content";
+   "nav content";
 
   grid-template-rows:60px 1fr;
   grid-template-columns: 2fr 10fr;
